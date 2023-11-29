@@ -1,0 +1,11 @@
+Write a short note on Tag and element with an example.
+
+Ans:-
+ 
+1. Tag- A tag is a markup instruction in HTML enclosed in angle brackets, used to define elements & their purposes.
+
+     Example: <p> is a tag used to define a paragraph
+
+2. Element- An element consists of an opening tag, content, and a closing tag, defining content on a webpage.
+
+     Example: <h1> This is a heading <h1/> an element with an opening tag, content & a closing tag.

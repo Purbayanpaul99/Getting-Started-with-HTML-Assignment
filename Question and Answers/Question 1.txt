@@ -1,0 +1,6 @@
+1. Explain the Purpose of comments in HTML and provide an example of how to use comments in an HTML Document.
+
+Ans:- The purpose of HTML is to add notes, and explanations, or temporarily disable sections of code for developers without affecting how the webpage is displayed.
+
+Example: <!-- HTML defines the content and structure of your website-->
+
